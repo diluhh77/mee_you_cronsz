@@ -61,17 +61,17 @@ router.get('/', async (req, res) => {
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN GIFTED-MDv2 』*
+║ *『 WOW YOU CHOOSEN SADOW x KILAR 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@giftedtechnexus_
-║❒ *Owner:* _https://wa.me/message/NHCZC5DSOEUXB1_
-║❒ *Repo:* _https://github.com/Giftedmaurice/gifted-mdV2_
-║❒ *WaGroup:* _https://chat.whatsapp.com/L0ctUUVLlsrFYwBHApKfew_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
-║❒ *Plugins:* _https://github.com/Giftedmaurice/gifted-bot-md-plugins_
+║❒ *Ytube:* _youtube.com_
+║❒ *Owner:* _https://wa.me/message/918138898059_
+║❒ *Repo:* _https://github.com/coming_
+║❒ *WaGroup:* _https://whatsapp.com/channel/0029Vb1mgOeCXC3K15xnyF2z
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb1mgOeCXC3K15xnyF2z_
+║❒ *Plugins:* _https://github.com_
 ╚══════════════════════╝ 
 _____________________________________
 
